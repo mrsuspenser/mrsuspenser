@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrsuspenser
-- 👀 I’m interested in information technology, networking, security, integrity, gaming, and working hard in order to relax.
-- 🌱 I’m currently learning Network+ and Security+.  Looking to learn Python in the near future.
+- 👀 I’m interested in cool technology, gaming, building computers, and working hard in order to relax.
+- 🌱 In school for an A.S. in Computer Programming and Analysis.  I hope to get a job in data entry/web dev/software dev.  
 - 💞️ I’m looking to collaborate on nothing at the moment, however, once my feet are wet I am open to the idea.
-- 📫 How to reach me, don't.
+- 📫 How to reach me, either through here, or mrsuspenser@gmail.com
 - ⚡ Fun fact: I'm 6'4"
 
 <!---
